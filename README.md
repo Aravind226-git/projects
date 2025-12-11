@@ -1,5 +1,5 @@
-Aravind R
-Data Analyst
+<h2>Aravind R</h2>
+<h2>Data Analyst</h2>
 
 Hello and welcome to my humble Portfolio.
 
@@ -12,8 +12,8 @@ I am based out of Cairo, Egypt and in my free time, I like to watch movies and a
 
 <h3>Education</h3>
 Fresh Computer Sceince Graduate From Anna University ( 2019 - 2023 )
-IBM, Data Analysis online non-credit Professional Certificate
-Understand the core principles of data analysis and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Power Bi, gaining practical experience with data manipulation, data analysis, and data visualization
+<p>IBM, Data Analysis online non-credit Professional Certificate
+Understand the core principles of data analysis and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Power Bi, gaining practical experience with data manipulation, data analysis, and data visualization</p>
 
 
 <h3>Core Competencies</h3>
