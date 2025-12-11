@@ -13,7 +13,7 @@ Stack Overflow, a popular website for developers, conducted an online survey of 
 
 <h5><b><li>Data Collection:<b></h5> Exploring Data, Collecting Data Using APIs, Collecting Data Using Web scraping</li>
 <h5><b><li>Data Wrangling:<b></h5> take the collected data and prepare it for analysis by Finding Missing Values, Determine Missing Values, Finding Duplicates, Removing Duplicates, Normalizing Data</li>
-<h5><b><li>Exploratory Data Analysis:<b></h5> apply statistical techniques to analyze the data and identify insights and trends like Distribution, Outliers, Correlation</li>
+<P><h5><b><li>Exploratory Data Analysis:<b></h5> apply statistical techniques to analyze the data and identify insights and trends like Distribution, Outliers, Correlation</li></P>
 <h5><b><li>Data Visualization:<b></h5> Visualizing Distribution of Data, Relationship, Composition, Comparison</li>
 <h5><b><li>Dashboard Creation<b></h5></li>
 <h5><b><li>Presentation of Findings:<b></h5> Final Presentation</li>
