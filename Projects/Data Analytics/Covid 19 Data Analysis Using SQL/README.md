@@ -43,4 +43,4 @@
 5. Top Countries Has Infected People
    ![image](https://github.com/Minaaa01/Covid-19-DataAnalysis-Using-SQL/assets/109883250/a5d1caa5-fe88-434c-acf7-1b18e7c459d3)
 ## Interactive Dashboard
-* You Can Find My Interactive Dashboard [Here](https://public.tableau.com/app/profile/mina.tawfik6758/viz/CovidDashboard_17026154742550/Dashboard1?publish=yes)
+* You Can Find My Interactive Dashboard [Here]([https://github.com/Aravind226-git/projects/blob/9da218684818a54e3a6f1cb93b96a6b300c55b18/Projects/Data%20Analytics/Covid%2019%20Data%20Analysis%20Using%20SQL/Covid%20Dashboard.pptx)
